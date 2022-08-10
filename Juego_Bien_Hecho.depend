@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1625906070 source:c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Funciones.h"
+	<ctime>
+	"rlutil.h"
+	"Un_Jugador.h"
+	"Dos_Jugadores.h"
+	"Modo_Simulado_1Jugador.h"
+	"Modo_Simulado_2Jugadores.h"
+	"DIBUJO_DADOS.h"
+
+1625906188 c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+
+1571584339 c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625906605 c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\un_jugador.h
+	"DIBUJO_DADOS.h"
+
+1625898442 c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\dibujo_dados.h
+
+1625906417 c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\dos_jugadores.h
+
+1625906796 c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\modo_simulado_1jugador.h
+
+1625906486 c:\users\joaqu\onedrive\escritorio\utn\juego_bien_hecho\modo_simulado_2jugadores.h
+
